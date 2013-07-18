@@ -9,7 +9,7 @@ class JqueryUiGrailsPlugin {
     // the plugin version
     // NOTE: ensure this assertion would hold (code not actually used, it does not compile correctly because the AST for the plugin descriptor is read).
     // assert version == JQUERYUI_VERSION + (PLUGIN_MINOR_REVISION ? '.' + PLUGIN_MINOR_REVISION : '')
-    def version = "1.10.0"
+    def version = "1.10.0.mod-SNAPSHOT"
 
 
     // the version or versions of Grails the plugin is designed for
